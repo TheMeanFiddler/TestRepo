@@ -1,2 +1,2 @@
 THis is my file
-It has two lines
+It has two lines but this is longer
