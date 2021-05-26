@@ -1,2 +1,3 @@
 THis is my file
 It has two lines but this is longer
+Added line in Branch1
